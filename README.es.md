@@ -42,7 +42,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 1. En el archivo index.html inventa una excusa nueva, sin JS, solo una excusa en HTML puro y simple.
 2. La excusa debe estar dentro de una etiqueta HTML que tenga un ID asignado, por ejemplo:
 ```html
-  <p id="excuse">My dog eat my homework</p>
+  <p id="excuse">My dog ate my homework</p>
 ```
 3. Usando JavaScript, crea una función que genere y devuelva una excusa aleatoria con la siguiente estructura:
 ```js
